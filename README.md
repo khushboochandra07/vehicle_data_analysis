@@ -4,7 +4,7 @@ Vehicle data analysis repository investigates and creates independent analysis t
 
 ## Jupyter Notebook
 
-Use the [jupyternotebook\1_feature_determining_car_price.ipynb](https://github.com/khushboochandra07/vehicle_data_analysis/blob/main/jupyternotebook/1_feature_determining_car_price.ipynb) to look at the results and findings
+[Link to Jupyter Notebook](https://https://github.com/khushboochandra07/vehicle_data_analysis/blob/main/jupyternotebook/1_feature_determining_car_price.ipynb)
 
 ## CRISP_DM Framework
 
