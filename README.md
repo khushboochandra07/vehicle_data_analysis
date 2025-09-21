@@ -5,7 +5,11 @@ Vehicle data analysis repository investigates and creates independent analysis t
 ## Jupyter Notebook
 
 [Link to Jupyter Notebook](https://https://github.com/khushboochandra07/vehicle_data_analysis/blob/main/jupyternotebook/1_feature_determining_car_price.ipynb)
+
+
 [Link to CSV data](https://https://github.com/khushboochandra07/vehicle_data_analysis/blob/main/data/vehicles.csv)
+
+
 ## CRISP_DM Framework
 
 ![CRISP-DM Framework](/images/crispdm.png)
