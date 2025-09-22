@@ -90,4 +90,7 @@ Results from the 4 models are very consistent with each other and the results in
 
 ![alt text](/images/linear_ridge.png)
 
+### **Modeling**  
+After running multiple visualization and models we can conclude on this ask from the client. From the results of RandomForestRegressor and XGBRegressor and comparing the results as well as Linear, Ridge, Lasso and ElasticNet models it can be concluded that **Year, drive, odometer, title and model** of the car play an important role in **determining the price of the car**.
+
 # Copyright (c) Khushboo Chandra.
